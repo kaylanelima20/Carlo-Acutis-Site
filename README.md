@@ -1,4 +1,4 @@
-**Site Carlo Acutis**
+# Site Carlo Acutis #
 
 Site simples e informativo feito em HTML e CSS para praticar estrutura e estilização.
 
@@ -11,7 +11,7 @@ O site aprensenta informações básicas sobre Carlo Acutis, um jovem italiano c
  - CSS3
 
 ## Objetivo
- - Treinar estrutura HTML
+ - Estrutura HTML
  - Estilição com CSS
 
  ### Autor
