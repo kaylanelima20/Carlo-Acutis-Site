@@ -2,15 +2,15 @@
 
 Site simples e infomativo feito em HTML e CSS.
 
-## Conteúdo do site:
+## Conteúdo do site
 
 O site apresenta informações básicas sobre Carlo Acutis, um jovem italiano conhecido por suas habilidades com informática.
   
-## Tecnologias utilizadas:
+## Tecnologias
  - HTML5
  - CSS3
 
-## Objetivo de praticar:
+## Objetivo de praticar
  - Estrutura HTML
  - Estilição com CSS
 
