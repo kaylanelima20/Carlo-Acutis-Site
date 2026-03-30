@@ -6,11 +6,11 @@ Site simples e informativo feito em HTML e CSS para praticar estrutura e estiliz
 
 O site apresenta informações básicas sobre Carlo Acutis, um jovem italiano conhecido por suas habilidades com informática.
   
-## Tecnologias utilizadas
+## Tecnologias
  - HTML5
  - CSS3
 
-## Objetivo de praticar:
+## Objetivo de praticar
  - Estrutura HTML
  - Estilição com CSS
 
