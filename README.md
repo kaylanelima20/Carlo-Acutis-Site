@@ -1,10 +1,12 @@
 **Site Carlo Acutis**
-site simples e informativo feito em HTML e CSS para praticar estrutura e estilização.
+
+Site simples e informativo feito em HTML e CSS para praticar estrutura e estilização.
 
 ## Conteúdos do site
+
 O site aprensenta informações básicas sobre Carlo Acutis, um jovem italiano conhecido por suas habilidades com informática.
   
-## Tecnologias usadas
+## Tecnologias utilizadas
  - HTML5
  - CSS3
 
@@ -12,7 +14,7 @@ O site aprensenta informações básicas sobre Carlo Acutis, um jovem italiano c
  - Treinar estrutura HTML
  - Estilição com CSS
 
- # Autor
+ ### Autor
  Kaylane Lima.
  
 
