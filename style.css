@@ -26,4 +26,5 @@ header p {
     margin: 30px auto;
     padding: 25px;
     max-width: 600px;
+    border-radius: 10px;
 }
