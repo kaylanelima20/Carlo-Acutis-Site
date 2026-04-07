@@ -9,7 +9,7 @@ header {
     background: #561106;
     color: white;
     padding: 50px 20px;
-    text-align: center;
+    text-align: center;  
 }
 
 header h1 {
@@ -19,4 +19,11 @@ header h1 {
 header p {
     margin-top: 10px;
     font-style: italic;
+}
+
+.card {
+    background: white;
+    margin: 30px auto;
+    padding: 25px;
+    max-width: 600px;
 }
