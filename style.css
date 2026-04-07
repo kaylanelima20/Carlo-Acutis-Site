@@ -28,3 +28,7 @@ header p {
     max-width: 600px;
     border-radius: 10px;
 }
+
+.card p {
+    line-height: 1.6;
+}
