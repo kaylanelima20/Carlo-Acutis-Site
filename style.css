@@ -1,19 +1,20 @@
 body {
     margin: 0;
-    font-family: Arial, sans-serif;
-    background: #f4f6f8;
+    font-family: 'Segoe UI', Arial, sans-serif;
+    background: linear-gradient( to right, #e3f2fd, #ffffff);
     color: #333;
 }
 
 header {
     background: #5c0d01;
     color: white;
-    padding: 50px 20px;
+    padding: 70px 20px;
     text-align: center;  
 }
 
 header h1 {
     margin: 0;
+    font-size: 2.5em;
 }
 
 header p {
@@ -23,29 +24,40 @@ header p {
 
 .card {
     background: white;
-    margin: 30px auto;
-    padding: 25px;
-    max-width: 600px;
-    border-radius: 10px;
+    margin: 40px auto;
+    padding: 30px;
+    max-width: 650px;
+    border-radius: 15px;
+    box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+    transition: transform 0.3s;
 }
 
 .card p {
-    line-height: 1.6;
+    line-height: 1.7;
+    margin-bottom: 15px;
 }
 
 /* inicial */
 header img {
-    width: 120px;
-    height: auto;
+    width: 140px;
     border-radius: 50%;
     margin-top: 20px;
+    box-shadow:  0 8px 20px rgba(0,0,0,0.3);
 }
 
+.card:hover {
+    transform: translateY(-5px);
+}
+
+h2 {
+    margin-top: 0;
+    color: #5c0d01;
+}
 
 footer {
-    background: #5c0d01;
+    background: #4e0d03;
     color: white;
     text-align: center;
-    padding: 4px;
-    margin-top: 10px;
+    padding: 20px;
+    margin-top: 40px;
 }
