@@ -41,15 +41,6 @@ header img {
     margin-top: 20px;
 }
 
-/* bio */
-.card img {
-    width: 100%;
-    height: auto;
-    display: block;
-    margin: 0 auto 15px;
-    border-radius: 10px;
-    max-width: 300px;
-}
 
 footer {
     background: #510d03;
